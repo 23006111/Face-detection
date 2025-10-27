@@ -166,7 +166,8 @@ while True:
 cap.release()
 plt.close()
 ```
-<img width="812" height="538" alt="image" src="https://github.com/user-attachments/assets/bbbb3226-92d8-4326-b35c-928203ccea25" />
+<img width="916" height="605" alt="image" src="https://github.com/user-attachments/assets/ae662a41-bfd7-40c3-82a3-5b6c29713733" />
+
 
 # Result:
 The system successfully detects faces and highlights them by drawing square around each detected face.
